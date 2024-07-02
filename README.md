@@ -1,6 +1,6 @@
 ## About Me
 
-Karin (Tingting) is a master's student at Leiden University who is trying to become a programmer. On this page you can find some of her random thoughts about life, food and Dutch weather. She sometimes also posts serious content not authored by herself. 
+Karin has three-year working experience in anti-money laundering and customer due diligence. She's seeking to bring technology into compliance to make the fight against financial crime more effective. She has a BA from Nanjing University and a MSc from Leiden University.
 
 ### Life
 
@@ -10,9 +10,7 @@ Karin (Tingting) is a master's student at Leiden University who is trying to bec
 
 _Dutch weather is a gift that keeps on giving._ 
 
-## Don't contact me 
-
-*but you will be forgiven if you do.*
+### Contact me
 
 [www.linkedin.com/in/tyang-leiden](url)
 
